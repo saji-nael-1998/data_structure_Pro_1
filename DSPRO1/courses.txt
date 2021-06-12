@@ -1,0 +1,21 @@
+Java#COMP231#115#08:00#08:50#1#S & M & W
+Data Structures Java#COMP242#115#08:00#08:50#2#S & M & W
+Algorithms#COMP336#114#09:00#09:50#1#S & M & W
+Introduction to programming#COMP133#116#09:00#09:50#2#S & M & W
+DATABASE SYSTEMS#COMP333#115#10:00#10:50#1#T & R
+LINUX OPERATING SYSTEMS LAB#COMP331#116#10:00#10:50#2#T & R
+WEB APPLICATION AND TECHNOLOGY#COMP334#114#10:00#11:15#1#T & R
+ARTIFICIAL INTELLIGENCE#COMP338#114#10:00#11:15#2#T & R
+COMPUTER SECURITY#COMP432#115#11:25#12:50#1#S & M & W
+Human Computer Interaction#COMP332#117#11:25#12:50#2#S & M & W
+Operations Research#COMP337#117#11:00#11:50#1#S & M & W
+Introduction to Knowledge Discovery And Data Mining#COMP430#115#11:00#11:50#2#S & M & W
+Advanced Software Engineering#COMP4331#117#12:50#14:05#1#T & R
+Mobile Game Programming#COMP2351#114#12:50#14:05#2#T & R
+Computer Graphics#COMP3321#116#13:00#13:50#1#T & R
+Game Engine Programming#COMP3331#116#13:00#13:50#2#T & R
+Content Creation And Level Design#COMP3361#118#14:00#14:50#1#S & M & W
+3D Modeling And Design#COMP3341#117#14:00#14:50#2#S & M & W
+Animation #COMP3351#115#14:15#15:30#1#S & M & W
+Electronic Health Enterprise Business Process Modelling#COMP3351#117#14:15#15:30#2#S & M & W
+
